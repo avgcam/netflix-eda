@@ -1,5 +1,5 @@
 # Netflix Exploratory Data Analysis
-Data set gathered from Kaggle
+Dataset gathered from Kaggle
 > https://www.kaggle.com/shivamb/netflix-shows
 
 ![netflix](img.jpeg)
