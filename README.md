@@ -18,5 +18,3 @@ Some of the interesting questions (tasks) which can be performed on this dataset
    2. Identifying similar content by matching text-based features
    3. Network analysis of Actors / Directors and find interesting insights
    4. Is Netflix has increasingly focusing on TV rather than movies in recent years.
-
-### Project not yet finished as of 2/28/2020
